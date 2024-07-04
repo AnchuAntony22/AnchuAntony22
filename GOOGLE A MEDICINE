@@ -1,4 +1,5 @@
-Creating a responsive and intuitive user interface using React, HTML, and CSS involves several steps. Below is an example of how to structure your project and create a basic user interface for the "GOOGLE A MEDICINE" web application.
+Creating a responsive and intuitive user interface using React, HTML, and CSS involves several steps.
+Below is an example of how to structure your project and create a basic user interface for the "GOOGLE A MEDICINE" web application.
 
 ### Project Structure
 1. **Create React App**: Use Create React App to set up your project.
